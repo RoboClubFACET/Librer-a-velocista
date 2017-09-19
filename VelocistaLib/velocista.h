@@ -13,9 +13,9 @@ typedef struct {
 	int pinPwmDer;
 	int pinIr1;
 	int pinIr2;
-    int pinIr3;
-    int pinIr4;
-    int pinIr5;
+  int pinIr3;
+  int pinIr4;
+  int pinIr5;
 } VelocistaConfig;
 
 class Velocista {
